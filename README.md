@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 
 
 <div style="display: inline flex"><br>
-  <img align="center" alt="JS" height="30" width="40" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg>
+  <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 </div>
