@@ -1,10 +1,7 @@
-### Oi! Meu nome é Pedro Spelta 👋
+### Olá! Meu nome é Pedro Spelta!
 
-- 🌱 Aluno na trybe atualmente no bloco de Ciência da computação
-- ✔️ Formado em Lógica de programação pela Trybe
-- ✔️ Formado em Front-end pela Trybe
-- ✔️ Formado em Back-end pela Trybe
-- 📫 E-mail: p.h.s.8989@hotmail.com
+- ✔️ Software Developer Formado na Trybe
+- 📫 E-mail: pedrohsen@gmail.com
 - ⚡ Fun fact: Carioca, mas não gosto de praia 😆
 
 <div>
